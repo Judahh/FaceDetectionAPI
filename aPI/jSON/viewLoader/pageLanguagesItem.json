@@ -1,0 +1,20 @@
+{
+    "id":0,
+    "routerLink":"",
+    "routerLinkActive":"inactive",
+    "colorEffect":{
+        "colorEffect":"DivClassNeon",
+        "font":{
+            "font":"DivClassFuturisticI",
+            "width":"100%",
+            "size":20,
+            "arrayPadding":[5],
+            "animationEffect":{
+                "class":"",
+                "subClass":"",
+                "subClasses":[],
+                "arrayInformation":[]
+            }
+        }
+    }
+}

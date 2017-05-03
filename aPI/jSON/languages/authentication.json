@@ -1,0 +1,14 @@
+[
+    {
+        "id":0,
+        "language":"English-USA",
+        "title":"Login with facebook",
+        "logoff":"Logoff"
+    },
+    {
+        "id":1,
+        "language":"Portuguese-Brazil",
+        "title":"Logar com facebook",
+        "logoff":"Sair"
+    }
+]

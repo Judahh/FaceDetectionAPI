@@ -1,0 +1,16 @@
+typings
+app/**/*.js
+app/**/*.map
+aPI/**/*.js
+aPI/**/*.map
+**/*.js
+**/*.map
+*.js
+*.map
+!plugins/*.js
+!require.js
+node_modules
+!node_modules/@types/declaration/*
+jspm_packages
+bower_components
+platforms

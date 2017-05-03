@@ -1,0 +1,28 @@
+[
+    {
+        "id":0,
+        "language":"English-USA",
+        "code":[
+            "en-us",
+            "en"
+        ]
+    },
+    {
+        "id":1,
+        "language":"English-GB",
+        "code":["en-gb"]
+    },
+    {
+        "id":2,
+        "language":"Portuguese-Brazil",
+        "code":["pt-br"]
+    },
+    {
+        "id":3,
+        "language":"Portuguese-Portugal",
+        "code":[
+            "pt-pt",
+            "pt"
+        ]
+    }
+]

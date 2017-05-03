@@ -1,0 +1,32 @@
+[
+    {
+        "id":0,
+        "language":"English-USA",
+        "title":"Languages",
+        "languages":[
+            {
+                "language":"English-USA",
+                "value":"English-USA"
+            },
+            {
+                "language":"Portuguese-Brazil",
+                "value":"Portuguese-Brazil"
+            }
+        ]
+    },
+    {
+        "id":1,
+        "language":"Portuguese-Brazil",
+        "title":"Línguas",
+        "languages":[
+            {
+                "language":"English-USA",
+                "value":"Inglês-EUA"
+            },
+            {
+                "language":"Portuguese-Brazil",
+                "value":"Português-Brasil"
+            }
+        ]
+    }
+]

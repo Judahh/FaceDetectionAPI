@@ -1,0 +1,211 @@
+[
+  {
+    "arraySubDivisor":[],
+    "divisor":{
+        "opacity":0.6,
+        "color": "transparent",
+        "arrayPadding": [5],
+        "arraySubDivisor":[
+            {
+                "toBottom": false,
+                "item":{
+                    "id":0,
+                    "routerLink":"",
+                    "routerLinkActive":"inactive",
+                    "colorEffect":{
+                        "colorEffect":"",
+                        "font":{
+                            "font":"DivClassFuturisticIAndII",
+                            "textAlign":"center",
+                            "width":"100%",
+                            "size":40,
+                            "arrayPadding":[],
+                            "animationEffect":{
+                                "class":"",
+                                "subClass":"",
+                                "subClasses":[],
+                                "arrayInformation":[]
+                            }
+                        }
+                    }
+                }
+            }
+        ]
+    }
+  },
+  {
+    "arraySubDivisor":[],
+    "divisor":{
+        "opacity":0.6,
+        "color": "transparent",
+        "arrayPadding": [5],
+        "arraySubDivisor":[
+            {
+                "toBottom": false,
+                "item":{
+                    "id":0,
+                    "routerLink":"",
+                    "routerLinkActive":"inactive",
+                    "colorEffect":{
+                        "colorEffect":"",
+                        "font":{
+                            "font":"DivClassFuturisticIAndII",
+                            "textAlign":"center",
+                            "width":"100%",
+                            "size":40,
+                            "arrayPadding":[],
+                            "animationEffect":{
+                                "class":"",
+                                "subClass":"",
+                                "subClasses":[],
+                                "arrayInformation":[]
+                            }
+                        }
+                    }
+                }
+            }
+        ]
+    }
+  },
+  {
+    "arraySubDivisor":[],
+    "divisor":{
+        "opacity":0.6,
+        "display":"block",
+        "color": "transparent",
+        "arrayPadding": [],
+        "arraySubDivisor":[
+            {
+                "float":"left",
+                "width":"18%",
+                "arrayPadding":[15],
+                "toBottom": false,
+                "image":{
+                    "boxSizing":"border-box",
+                    "borderSize":"15",
+                    "borderRadius":"1000",
+                    "color":"black",
+                    "position":"relative"
+                }
+            },
+            {
+                "toBottom": false,
+                "item":{
+                    "id":1,
+                    "routerLink":"",
+                    "routerLinkActive":"inactive",
+                    "colorEffect":{
+                        "colorEffect":"",
+                        "font":{
+                            "font":"DivClassOpenSans",
+                            "textAlign":"justify",
+                            "textIndent":"2.5em",
+                            "width":"100%",
+                            "size":20,
+                            "arrayPadding":[],
+                            "animationEffect":{
+                                "class":"",
+                                "subClass":"",
+                                "subClasses":[],
+                                "arrayInformation":[]
+                            }
+                        }
+                    }
+                }
+            }
+        ]
+    }
+  },
+  {
+    "arraySubDivisor":[],
+    "divisor":{
+        "opacity":0.6,
+        "color": "transparent",
+        "arrayPadding": [5],
+        "arraySubDivisor":[
+            {
+                "toBottom": false,
+                "item":{
+                    "id":0,
+                    "routerLink":"",
+                    "routerLinkActive":"inactive",
+                    "colorEffect":{
+                        "colorEffect":"",
+                        "font":{
+                            "font":"DivClassFuturisticIAndII",
+                            "textAlign":"center",
+                            "width":"100%",
+                            "size":40,
+                            "arrayPadding":[],
+                            "animationEffect":{
+                                "class":"",
+                                "subClass":"",
+                                "subClasses":[],
+                                "arrayInformation":[]
+                            }
+                        }
+                    }
+                }
+            }
+        ]
+    }
+  },
+  {
+    "arraySubDivisor":[],
+    "divisor":{
+        "opacity":0.6,
+        "color": "transparent",
+        "arrayPadding": [],
+        "arraySubDivisor":[
+            {
+                "toBottom": false,
+                "width":"100%",
+                "videoLink":{
+                    "boxSizing":"border-box",
+                    "borderSize":"0",
+                    "borderRadius":"0",
+                    "color":"black",
+                    "height":315,
+                    "width":420
+                }
+            }
+        ]
+    }
+  },
+  {
+    "arraySubDivisor":[],
+    "divisor":{
+        "opacity":0.6,
+        "display":"block",
+        "color": "transparent",
+        "arrayPadding": [],
+        "arraySubDivisor":[
+            {
+                "toBottom": false,
+                "item":{
+                    "id":0,
+                    "routerLink":"",
+                    "routerLinkActive":"inactive",
+                    "colorEffect":{
+                        "colorEffect":"",
+                        "font":{
+                            "font":"DivClassOpenSans",
+                            "textAlign":"justify",
+                            "textIndent":"2.5em",
+                            "width":"100%",
+                            "size":20,
+                            "arrayPadding":[],
+                            "animationEffect":{
+                                "class":"",
+                                "subClass":"",
+                                "subClasses":[],
+                                "arrayInformation":[]
+                            }
+                        }
+                    }
+                }
+            }
+        ]
+    }
+  }
+]
