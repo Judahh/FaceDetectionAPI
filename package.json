@@ -76,7 +76,7 @@
     "@types/requirejs": "^2.1.28",
     "angular-cli": "1.0.0-beta.19-3",
     "babel-traverse": "6.18.0",
-    "babel-types": "6.18.0",
+    "babel-types": "6.26.0",
     "babylon": "6.13.0",
     "codelyzer": "1.0.0-beta.1",
     "concurrently": "^3.0.0",
