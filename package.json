@@ -110,7 +110,7 @@
     "pug-cli": "^1.0.0-alpha6",
     "shx": "^0.1.2",
     "ts-node": "1.2.1",
-    "tslint": "3.13.0",
+    "tslint": "3.15.1",
     "typescript": "^2.3.2",
     "webdriver-manager": "10.2.5",
     "yargs": "^4.8.1"
