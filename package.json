@@ -113,6 +113,6 @@
     "tslint": "3.13.0",
     "typescript": "^2.3.2",
     "webdriver-manager": "10.2.5",
-    "yargs": "^4.8.1"
+    "yargs": "^15.4.1"
   }
 }
