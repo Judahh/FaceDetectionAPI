@@ -106,7 +106,7 @@
     "postcss-nested": "^1.0.0",
     "postcss-simple-vars": "^3.0.0",
     "protractor": "4.0.9",
-    "pug": "^2.0.0-beta3",
+    "pug": "^3.0.2",
     "pug-cli": "^1.0.0-alpha6",
     "shx": "^0.1.2",
     "ts-node": "1.2.1",
