@@ -33,7 +33,7 @@
   "dependencies": {
     "@types/core-js": "^0.9.35",
     "@types/jasmine": "^2.5.38",
-    "auth0-lock": "^10.7.1",
+    "auth0-lock": "^11.30.2",
     "body-parser": "^1.15.2",
     "chai": "^3.4.0",
     "core-js": "^2.4.1",
